@@ -5,7 +5,7 @@ import scipy.io as io
 import cv2
 import numpy as np
 import os
-import check_resources as check
+#import check_resources as check
 import matplotlib.pyplot as plt
 
 
